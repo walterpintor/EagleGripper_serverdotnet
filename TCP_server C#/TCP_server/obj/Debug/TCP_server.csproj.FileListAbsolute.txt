@@ -1,0 +1,27 @@
+d:\users\m8fra\documents\visual studio 2017\Projects\TCP_server\TCP_server\bin\Debug\TCP_server.exe.config
+d:\users\m8fra\documents\visual studio 2017\Projects\TCP_server\TCP_server\bin\Debug\TCP_server.exe
+d:\users\m8fra\documents\visual studio 2017\Projects\TCP_server\TCP_server\bin\Debug\TCP_server.pdb
+d:\users\m8fra\documents\visual studio 2017\Projects\TCP_server\TCP_server\obj\Debug\TCP_server.csprojResolveAssemblyReference.cache
+d:\users\m8fra\documents\visual studio 2017\Projects\TCP_server\TCP_server\obj\Debug\TCP_server.Properties.Resources.resources
+d:\users\m8fra\documents\visual studio 2017\Projects\TCP_server\TCP_server\obj\Debug\TCP_server.csproj.GenerateResource.Cache
+d:\users\m8fra\documents\visual studio 2017\Projects\TCP_server\TCP_server\obj\Debug\TCP_server.exe
+d:\users\m8fra\documents\visual studio 2017\Projects\TCP_server\TCP_server\obj\Debug\TCP_server.pdb
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\bin\Debug\TCP_server.exe.config
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\bin\Debug\TCP_server.exe
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\bin\Debug\TCP_server.pdb
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\obj\Debug\TCP_server.csprojResolveAssemblyReference.cache
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\obj\Debug\TCP_server.Properties.Resources.resources
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\obj\Debug\TCP_server.csproj.GenerateResource.Cache
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\obj\Debug\TCP_server.exe
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\obj\Debug\TCP_server.pdb
+C:\Users\walter-frank\Desktop\ARTC\Projects\In-House\In-House Gripper\TCP Comm\TCP_server\TCP_server\obj\Debug\TCP_server.Form1.resources
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\bin\Debug\TCP_server.exe.config
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\bin\Debug\TCP_server.exe
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\bin\Debug\TCP_server.pdb
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\bin\Debug\SimpleTCP.dll
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\obj\Debug\TCP_server.csprojResolveAssemblyReference.cache
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\obj\Debug\TCP_server.Form1.resources
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\obj\Debug\TCP_server.Properties.Resources.resources
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\obj\Debug\TCP_server.csproj.GenerateResource.Cache
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\obj\Debug\TCP_server.exe
+D:\Users\m8fra\documents\visual studio 2017\Projects\TCP_server C#\TCP_server\obj\Debug\TCP_server.pdb
